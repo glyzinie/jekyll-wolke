@@ -1,0 +1,11 @@
+encoding: utf-8
+lang: ja
+timezone: Asia/Tokyo
+
+plugins: ["jekyll-remote-theme"]
+remote_theme: glyzinie/jekyll-wolke
+
+baseURL: https://glyzinie.github.io/jekyll-wolke/
+title: Jekyll Wolke
+description: A simple Jekyll theme using simple.css
+copyright: 2024 Wis (@glyzinie)
